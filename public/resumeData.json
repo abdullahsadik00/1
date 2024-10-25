@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Sadik Shaikh",
+    "occupation": "Frontend Developer",
+    "description": "Passionate about building innovative and user-friendly web applications.",
+    "image": "profilepic.jpg",
+    "bio": "As a Frontend Developer, I am highly motivated and passionate about building innovative and user-friendly web applications. I have a solid foundation in HTML, CSS, and JavaScript and am constantly expanding my knowledge of these technologies. I have experience in developing responsive web designs and working with frontend libraries such as React.",
+    "contactmessage": "Get in touch with me to discuss exciting web projects!",
+    "email": "sadikshaikh3012@gmail.com",
+    "phone": "+91 9823514449",
+    "address": {
+      "street": "Kondhwa Bk, Ambedkar nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411048"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdullah-sadik/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abdullahsadik326/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abdullahsadik00",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Poona College of Arts, Science and Commerce",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "July 2021",
+        "description": ""
+      },
+      {
+        "school": "Poona College of Arts, Science and Commerce",
+        "degree": "Master of Science in Computer Science",
+        "graduated": "October 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "AffinityX",
+        "title": "Associate Web Designer",
+        "years": "April 2023 - Present",
+        "description": "Implement front-end web design based on client specifications, creating exceptional websites that serve customer needs through smart design and functional features."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Responsive Web Design",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-commerce React App",
+        "category": "Web Development",
+        "image": "ecommerce.jpg",
+        "url": "https://example.com/ecommerce-demo"
+      },
+      {
+        "title": "Movie Booking App",
+        "category": "Web Development",
+        "image": "moviebooking.jpg",
+        "url": "https://example.com/movie-booking-demo"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sadik is a dedicated developer who brings creativity and passion to his projects.",
+        "user": "Client Name"
+      },
+      {
+        "text": "Working with Sadik was a great experience; he is a true professional.",
+        "user": "Team Lead Name"
+      }
+    ]
+  }
+}
